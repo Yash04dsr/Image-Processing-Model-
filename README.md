@@ -1,6 +1,6 @@
 # Image-Processing-Model
 *************************************************************************************************
-This is an Machine learning Image processing model developed**using Nueral Network** by the help of **TensorFlow**which can predict the class of fashion wear by using the image with an **accuracy of 90 percent**.
+This is a machine learning image processing model developed using **neural network** with **TensorFlow.** It can predict the class of fashion wear with an **accuracy of 90%**
 
 **************************************************************************************************
 The data set used to train the model and test the model is imported from **fashion_mnist** platform
