@@ -7,7 +7,7 @@ This is a machine learning image processing model developed using **neural netwo
 - [Introduction](#introduction)
 - [Objective](#objective)
 - [Dataset](#dataset)
-- [License](#license)
+
 ## Introduction:
 The Fashion-MNIST dataset is a popular dataset used for classification in the Machine Learning community to build and test neural networks. Although MNIST is widely used for digit classification, it is considered a trivial dataset for neural networks as they can achieve accuracy above 90% quite quickly. Experts recommend moving away from MNIST dataset for model benchmarking and validation. On the other hand, Fashion-MNIST is more complex and a much better dataset for evaluating models than MNIST.
 ## Objective:-
